@@ -14,7 +14,7 @@ public class CharArithDemo {
         ch = 90;
         System.out.println("теперь ch это " + ch);
 
-        ch = 92;
+        ch = 7;
         System.out.println("теперь cr это " + ch);
 
 
